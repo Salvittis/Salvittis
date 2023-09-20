@@ -10,7 +10,7 @@
   <img align="center" alt="Salvitti-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Salvitti-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Salvitti-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Salvitti-Vue3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue3/vue3-original.svg">
+<!--   <img align="center" alt="Salvitti-Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vue/vue-original.svg"> -->
 </div>
   
   ##
