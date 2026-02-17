@@ -54,7 +54,6 @@ Meu foco está em <strong>automações, integração com IA e dashboards executi
   <img src="https://img.shields.io/badge/PostgreSQL-1A2454?style=for-the-badge&logo=postgresql&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/SQL-1A2454?style=for-the-badge&logo=databricks&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/Docker-1A2454?style=for-the-badge&logo=docker&logoColor=E8DFC8"/>
-  <img src="https://img.shields.io/badge/Linux-1A2454?style=for-the-badge&logo=linux&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/React-1A2454?style=for-the-badge&logo=react&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/Vue.js-1A2454?style=for-the-badge&logo=vuedotjs&logoColor=E8DFC8"/>
 </div>
@@ -63,12 +62,20 @@ Meu foco está em <strong>automações, integração com IA e dashboards executi
 
 <div align="center">
   <img src="https://img.shields.io/badge/Kafka-1A2454?style=for-the-badge&logo=apachekafka&logoColor=E8DFC8"/>
-  <img src="https://img.shields.io/badge/REST_API-1A2454?style=for-the-badge&logo=fastapi&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/Prometheus-1A2454?style=for-the-badge&logo=prometheus&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/Grafana-1A2454?style=for-the-badge&logo=grafana&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/n8n-1A2454?style=for-the-badge&logo=n8n&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/Metabase-1A2454?style=for-the-badge&logo=github&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/OpenClaw-1A2454?style=for-the-badge&logo=github&logoColor=E8DFC8"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-1A2454?style=for-the-badge&logo=kubernetes&logoColor=E8DFC8"/>
+  <img src="https://img.shields.io/badge/REST_API-1A2454?style=for-the-badge&logo=fastapi&logoColor=E8DFC8"/>
+  <img src="https://img.shields.io/badge/JUnit-1A2454?style=for-the-badge&logo=junit5&logoColor=E8DFC8"/>
+  <img src="https://img.shields.io/badge/Swagger%20%7C%20OpenAPI-1A2454?style=for-the-badge&logo=swagger&logoColor=E8DFC8"/>
 </div>
 
 &nbsp;
