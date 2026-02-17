@@ -27,7 +27,7 @@ ___
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&duration=2200&pause=999999&color=E8DFC8&center=true&vCenter=true&width=500&repeat=false&lines=About+me" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&duration=2200&pause=999999&color=E8DFC8&center=true&vCenter=true&width=500&repeat=false&lines=About+me" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&duration=2200&pause=999999&color=1A2454&center=true&vCenter=true&width=500&repeat=false&lines=About+me" alt="About me" />
   </picture>
 </p>
@@ -42,7 +42,7 @@ Meu foco está em <strong>automações, integração com IA e dashboards executi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&duration=2400&pause=999999&color=E8DFC8&center=true&vCenter=true&width=900&repeat=false&lines=Technology" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&duration=2400&pause=999999&color=E8DFC8&center=true&vCenter=true&width=900&repeat=false&lines=Technology" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&duration=2400&pause=999999&color=1A2454&center=true&vCenter=true&width=900&repeat=false&lines=Study+%7C+Technology" alt="Study | Technology" />
   </picture>
 </p>
@@ -62,7 +62,6 @@ Meu foco está em <strong>automações, integração com IA e dashboards executi
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-1A2454?style=for-the-badge&logo=kubernetes&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/Kafka-1A2454?style=for-the-badge&logo=apachekafka&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/REST_API-1A2454?style=for-the-badge&logo=fastapi&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/Prometheus-1A2454?style=for-the-badge&logo=prometheus&logoColor=E8DFC8"/>
@@ -72,18 +71,11 @@ Meu foco está em <strong>automações, integração com IA e dashboards executi
   <img src="https://img.shields.io/badge/OpenClaw-1A2454?style=for-the-badge&logo=github&logoColor=E8DFC8"/>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/JUnit-1A2454?style=for-the-badge&logo=junit5&logoColor=E8DFC8"/>
-  <img src="https://img.shields.io/badge/Swagger%20%7C%20OpenAPI-1A2454?style=for-the-badge&logo=swagger&logoColor=E8DFC8"/>
-</div>
-
 &nbsp;
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&duration=2200&pause=999999&color=E8DFC8&center=true&vCenter=true&width=700&repeat=false&lines=Github+Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&duration=2200&pause=999999&color=E8DFC8&center=true&vCenter=true&width=700&repeat=false&lines=Github+Stats" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&duration=2200&pause=999999&color=1A2454&center=true&vCenter=true&width=700&repeat=false&lines=Github+Stats" alt="Github Stats" />
   </picture>
 </p>
@@ -96,7 +88,7 @@ Meu foco está em <strong>automações, integração com IA e dashboards executi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&duration=2200&pause=999999&color=E8DFC8&center=true&vCenter=true&width=700&repeat=false&lines=Contact" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=30&duration=2200&pause=999999&color=E8DFC8&center=true&vCenter=true&width=700&repeat=false&lines=Contact" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=40&duration=2200&pause=999999&color=1A2454&center=true&vCenter=true&width=700&repeat=false&lines=Social+Media" alt="Social Media" />
   </picture>
 </p>
