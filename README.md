@@ -65,7 +65,7 @@ Meu foco está em <strong>automações, integração com IA e dashboards executi
   <img src="https://img.shields.io/badge/Prometheus-1A2454?style=for-the-badge&logo=prometheus&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/Grafana-1A2454?style=for-the-badge&logo=grafana&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/n8n-1A2454?style=for-the-badge&logo=n8n&logoColor=E8DFC8"/>
-  <img src="https://img.shields.io/badge/Metabase-1A2454?style=for-the-badge&logo=github&logoColor=E8DFC8"/>
+  <img src="https://img.shields.io/badge/Metabase-1A2454?style=for-the-badge&logo=metabase&logoColor=E8DFC8"/>
   <img src="https://img.shields.io/badge/OpenClaw-1A2454?style=for-the-badge&logo=github&logoColor=E8DFC8"/>
 </div>
 
