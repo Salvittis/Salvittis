@@ -11,10 +11,10 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=42&pause=1200&duration=3200&color=E8DFC8&center=true&vCenter=true&width=1400&lines=Bem+vindo+ao+meu+Github;provavelmente+estou+automatizando+alguma+coisa!"
+        srcset="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=42&pause=1200&duration=3200&color=E8DFC8&center=true&vCenter=true&width=1400&lines=Welcome+to+my+GitHub;I’m+probably+automating+something!"
       />
       <img
-        src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=42&pause=1200&duration=3200&color=1A2454&center=true&vCenter=true&width=1400&lines=Bem+vindo+ao+meu+Github;provavelmente+estou+automatizando+alguma+coisa!"
+        src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&weight=700&size=42&pause=1200&duration=3200&color=1A2454&center=true&vCenter=true&width=1400&lines=Welcome+to+my+GitHub;I’m+probably+automating+something!"
         alt="Typing SVG"
       />
     </picture>
@@ -33,9 +33,9 @@ ___
 </p>
 
 <p align="center">
-Sou <strong>Pedro Salvitti</strong>, <strong>Software Engineer</strong>, atualmente atuando em <strong>Data Analytics</strong> na Loud.
-Trabalho com <strong>BI interno, indicadores e produtos digitais</strong>, conectando dados e operação para tomada de decisão.
-Meu foco está em <strong>automações, integração com IA e dashboards executivos</strong>, gerando eficiência e insights práticos.
+I’m <strong>Pedro Salvitti</strong>, a <strong>Software Engineer</strong>, currently working in <strong>Data Analytics</strong> at Loud.
+I work with <strong>internal BI, KPIs, and digital products</strong>, connecting data and operations to support decision-making.
+My focus is on <strong>automation, AI integration, and executive dashboards</strong>, driving efficiency and practical insights.
 </p>
 
 &nbsp;
